@@ -1,0 +1,10 @@
+You need to do this in order to play Kaizo Mario Galaxy on USB Loader GX 2.
+
+NOTE: I highly recommend changing the Game ID as well as the TMD ID in the builder,
+this way the Wii will create a separate save file for Kaizo (You will have to change any one of the files
+in '/txtcodes/' to match this new Game ID, though)
+
+1. Move the 'txtcodes' folder to your Wii's SD Card
+2. Enable 'Ocarina' in 'Game Load' settings for Kaizo Mario Galaxy 2
+3. Below the 'Game Load button there should be a button called 'Ocarina', press it
+4. Turn on 'Main' and optionally 'Luigi' if you want to play as luigi. Finally, press create

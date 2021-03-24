@@ -1,0 +1,14 @@
+You need to do this in order to play Kaizo Mario Galaxy 2 on Dolphin.
+
+1. Open the settings window in Dolphin (Options -> Configuration)
+2. Press 'Enable cheats'
+3. Right click your game in Dolphin and press 'Properties'
+4. Go to 'Game Config' and then 'Editor'
+5. Paste in the contents of 'COPYME_dolphin.txt' into the 'User Config' field
+6. Close the properties window and open it again (to reload it)
+7. Navigate to 'Gecko Codes' tab and if you did everything correctly,
+   the code to get the game to work should be there and enabled
+
+Have fun :)
+
+OPTIONAL: If you want to play as Luigi, enable the Luigi Gecko code
