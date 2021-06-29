@@ -1,23 +1,24 @@
 ***BUGS***
--Sometimes the camera gets stuck in Boulder Bowl C when using Rock Mario.
--Mario's "no cap" hair model wasn't made to take damage. It will disappear when you die in certain places.
--The skybox in Flipsville acts kind of strange when starting mission 2 or C.
--Sometimes in Flipsville 1 you can still clip through the floor.
+-Despite my best efforts, Boulder Bowl and Boss Blitz do NOT work on Chinese/KOR games.
+The game can still be beaten, but Grandmaster cannot be unlocked. (Also applies to playing without codes.)
+-The grand world map can't be unlocked until world 4. Technically it's possible to skip unlocking it.
+-Sometimes when fighting Bowser 2, the gravity will not function properly and send you flying.
+-Not really a bug, but if a snowball gets knocked into a death area, it won't respawn. They're kinda jank.
+-The starting area in Rolling Coaster is a bit jank.... Apologies in advance. I rotated the camera a bit
+to try and help make getting down easier, but it can still be unpredictable.
 -Boss Blitz Galaxy took a lot to set up. Mario and Major Burrows may appear glitchy in some cases.
 A code has been added to make it so you can't skip King Kaliente's opening cutscene because it makes
 the game crash. There's no reason why this code shouldn't work but just in case try not to skip it.
--You can clip through the platforms in Clockwork Ruins if you land on them just right...
+-Mario's "no cap" hair model wasn't made to take damage. It will disappear when you die in certain places.
+-The skybox in Flipsville acts kind of strange when starting mission 2 or C.
+-Sometimes in Flipsville 1 and Grandmaster you can still clip through the floor.
+-Sometimes the camera gets stuck in Boulder Bowl C when using Rock Mario.
 -The secret star indicator in Melty Monster is hardcoded, so it appears on mission 1. (It's in mission 2.)
--Not really a bug, but if a snowball gets knocked into a death area, it won't respawn.
-Keep this in mind before reporting a softlock.
--The starting area in Rolling Coaster is a bit jank.... Apologies in advance. I rotated the camera a bit
-to try and help make getting down easier, but it can still be unpredictable.
--The grand world map can't be unlocked until world 4. Technically it's possible to skip unlocking it.
--Luigi has not been fully tested. If you get stuck somewhere as Luigi, try with Mario! (Do report this.)
+-You can clip through the platforms in Clockwork Ruins if you land on them just right...
 
 
 
-***1.2 CHANGELOG***
+***1.1 CHANGELOG***
 Main:
 -Sky Station C: Removed a green star that wasn't supposed to appear
 -Fiery Flotilla C: Reduced the timer by 15 seconds
